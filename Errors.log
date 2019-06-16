@@ -1,0 +1,104 @@
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 99, in process_quote
+    if self.state[-1] in ('setup complete') and self.cycles < MAX_CYCLES:
+AttributeError: 'EMATS' object has no attribute 'cycles'
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 99, in process_quote
+    if self.state[-1] in ('setup complete') and self.cycles < MAX_CYCLES:
+AttributeError: 'EMATS' object has no attribute 'cycles'
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 99, in process_quote
+    if self.state[-1] in ('setup complete') and self.cycles < MAX_CYCLES:
+AttributeError: 'EMATS' object has no attribute 'cycles'
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 99, in process_quote
+    if self.state[-1] in ('setup complete') and self.cycles < MAX_CYCLES:
+AttributeError: 'EMATS' object has no attribute 'cycles'
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 99, in process_quote
+    if self.state[-1] in ('setup complete') and self.cycles < MAX_CYCLES:
+AttributeError: 'EMATS' object has no attribute 'cycles'
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 99, in process_quote
+    if self.state[-1] in ('setup complete') and self.cycles < MAX_CYCLES:
+AttributeError: 'EMATS' object has no attribute 'cycles'
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 99, in process_quote
+    if self.state[-1] in ('setup complete') and self.cycles < MAX_CYCLES:
+AttributeError: 'EMATS' object has no attribute 'cycles'
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 97, in process_quote
+    buy_order = self.buy_bot.process_quote(quote)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/eqbot.py", line 41, in process_quote
+    self._setup(quote)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/eqbot.py", line 99, in _setup
+    nifty = client.get_instrument_by_symbol('NSE_EQ', "reliance")
+AttributeError: 'NoneType' object has no attribute 'get_instrument_by_symbol'
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 97, in process_quote
+    buy_order = self.buy_bot.process_quote(quote)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/eqbot.py", line 41, in process_quote
+    self._setup(quote)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/eqbot.py", line 99, in _setup
+    nifty = client.get_instrument_by_symbol('NSE_EQ', "reliance")
+AttributeError: 'NoneType' object has no attribute 'get_instrument_by_symbol'
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 97, in process_quote
+    buy_order = self.buy_bot.process_quote(quote)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/eqbot.py", line 41, in process_quote
+    self._setup(quote)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/eqbot.py", line 99, in _setup
+    nifty = client.get_instrument_by_symbol('NSE_EQ', "reliance")
+AttributeError: 'NoneType' object has no attribute 'get_instrument_by_symbol'
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 97, in process_quote
+    buy_order = self.buy_bot.process_quote(quote)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/eqbot.py", line 41, in process_quote
+    self._setup(quote)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/eqbot.py", line 99, in _setup
+    nifty = client.get_instrument_by_symbol('NSE_EQ', "reliance")
+AttributeError: 'NoneType' object has no attribute 'get_instrument_by_symbol'
+Exception while handling quote update.
+Traceback (most recent call last):
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/manager.py", line 161, in main_loop
+    order = bot[1].process_quote(m)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/emats.py", line 97, in process_quote
+    buy_order = self.buy_bot.process_quote(quote)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/eqbot.py", line 41, in process_quote
+    self._setup(quote)
+  File "/home/chandan/Documents/PythonWorkbook/upstox_python_bot-master/eqbot.py", line 99, in _setup
+    nifty = client.get_instrument_by_symbol('NSE_EQ', "reliance")
+AttributeError: 'NoneType' object has no attribute 'get_instrument_by_symbol'

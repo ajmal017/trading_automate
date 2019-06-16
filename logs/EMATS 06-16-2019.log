@@ -1,0 +1,109 @@
+[10:36:16 - DEBUG] EMATS - 
+[10:36:16 - DEBUG] EMATS - Initialised class
+[10:36:45 - DEBUG] EMATS - 
+[10:36:45 - DEBUG] EMATS - Initialised class
+[10:37:12 - DEBUG] EMATS - 
+[10:37:12 - DEBUG] EMATS - Initialised class
+[10:37:12 - DEBUG] EMATS - Retrieving daily ohlc data for period 16-02-2019 to 15-06-2019
+[10:37:13 - DEBUG] EMATS - Total records  = 78
+[10:37:13 - DEBUG] EMATS - Unique records = 78
+[10:37:13 - DEBUG] EMATS - Crossover on 06-03-2019. Direction = down
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 10849.40 | 10897.05
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 10815.60 | 10915.88
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 07-03-2019. Direction = up
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 10897.05 | 10922.75
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 10915.88 | 10907.87
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 28-03-2019. Direction = down
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11502.15 | 11450.97
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11469.22 | 11503.28
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 01-04-2019. Direction = up
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11462.12 | 11553.58
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11537.37 | 11512.57
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 09-04-2019. Direction = down
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11689.58 | 11624.23
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11637.92 | 11647.60
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 11-04-2019. Direction = up
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11634.98 | 11625.12
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11699.45 | 11624.07
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 15-04-2019. Direction = down
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11600.60 | 11657.70
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11597.57 | 11658.45
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 16-04-2019. Direction = up
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11657.70 | 11637.33
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11658.45 | 11633.12
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 18-04-2019. Direction = down
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11637.33 | 11691.92
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11633.12 | 11710.35
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 22-04-2019. Direction = up
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11691.92 | 11698.12
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11710.35 | 11640.47
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 26-04-2019. Direction = down
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11739.47 | 11618.12
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11702.28 | 11738.70
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 02-05-2019. Direction = up
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11665.30 | 11737.15
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11753.42 | 11645.68
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 08-05-2019. Direction = down
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11673.20 | 11611.33
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11627.28 | 11669.07
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 21-05-2019. Direction = up
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11314.60 | 11492.62
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11321.65 | 11374.88
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 28-05-2019. Direction = down
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11776.60 | 11831.33
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11552.80 | 11860.42
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 29-05-2019. Direction = up
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11831.33 | 11792.90
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11860.42 | 11782.32
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 04-06-2019. Direction = down
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11925.77 | 11974.83
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11870.33 | 11979.35
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 06-06-2019. Direction = up
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11974.83 | 11983.77
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11979.35 | 11959.72
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 12-06-2019. Direction = down
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11972.17 | 11904.67
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11922.77 | 12047.57
+[10:37:13 - DEBUG] EMATS - -------------------------------
+
+[10:37:13 - DEBUG] EMATS - Crossover on 14-06-2019. Direction = up
+[10:37:13 - DEBUG] EMATS - 3 EMAs = 11888.42 | 11918.38
+[10:37:13 - DEBUG] EMATS - 5 EMAs = 11983.17 | 11867.18
+[10:37:13 - DEBUG] EMATS - -------------------------------
+

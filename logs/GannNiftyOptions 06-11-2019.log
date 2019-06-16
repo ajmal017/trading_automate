@@ -1,0 +1,28 @@
+[10:57:21 - DEBUG] GannNiftyOptions - Creating options symbols
+[10:57:22 - DEBUG] GannNiftyOptions - Base price for options = 11900
+[10:57:25 - DEBUG] GannNiftyOptions - Subscribed to nifty19jun12200ce
+[10:57:25 - DEBUG] GannNiftyOptions - close = 31.350000
+[10:57:28 - DEBUG] GannNiftyOptions - Subscribed to nifty19jun11500pe
+[10:57:28 - DEBUG] GannNiftyOptions - close = 30.550000
+[10:57:28 - DEBUG] GannNiftyOptions - setup complete
+[11:35:50 - DEBUG] GannNiftyOptions - Creating options symbols
+[11:35:51 - DEBUG] GannNiftyOptions - Base price for options = 11900
+[11:35:54 - DEBUG] GannNiftyOptions - Subscribed to nifty19jun12200ce
+[11:35:54 - DEBUG] GannNiftyOptions - close = 31.350000
+[11:35:58 - DEBUG] GannNiftyOptions - Subscribed to nifty19jun11500pe
+[11:35:58 - DEBUG] GannNiftyOptions - close = 30.550000
+[11:35:58 - DEBUG] GannNiftyOptions - setup complete
+[11:39:41 - DEBUG] GannNiftyOptions - Creating options symbols
+[11:39:42 - DEBUG] GannNiftyOptions - Base price for options = 11900
+[11:39:45 - DEBUG] GannNiftyOptions - Subscribed to nifty19jun12200ce
+[11:39:45 - DEBUG] GannNiftyOptions - close = 31.350000
+[11:39:49 - DEBUG] GannNiftyOptions - Subscribed to nifty19jun11500pe
+[11:39:49 - DEBUG] GannNiftyOptions - close = 30.550000
+[11:39:49 - DEBUG] GannNiftyOptions - setup complete
+[11:42:04 - DEBUG] GannNiftyOptions - Creating options symbols
+[11:42:05 - DEBUG] GannNiftyOptions - Base price for options = 11900
+[11:42:08 - DEBUG] GannNiftyOptions - Subscribed to nifty19jun12200ce
+[11:42:08 - DEBUG] GannNiftyOptions - close = 31.350000
+[11:42:12 - DEBUG] GannNiftyOptions - Subscribed to nifty19jun11500pe
+[11:42:12 - DEBUG] GannNiftyOptions - close = 30.550000
+[11:42:12 - DEBUG] GannNiftyOptions - setup complete
