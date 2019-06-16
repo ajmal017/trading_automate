@@ -1,0 +1,2 @@
+# trading_automate
+WIP
